@@ -1,0 +1,23 @@
+{
+  "name": "com.unity.servicelocator",
+  "displayName": "Unity-Service-Locator",
+  "description": "",
+  "version": "1.0.1",
+  "unity": "2021.1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "keywords": [],
+  "samples": [
+    {
+      "displayName": "Samples with UI",
+      "description": "Contains sample code for various HTTP related scenarios.",
+      "path": "Samples~/With UI"
+    }
+  ]
+}
