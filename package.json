@@ -1,0 +1,10 @@
+{
+  "name": "com.undercats.servicelocator",
+  "version": "1.0.6",
+  "displayName": "Unity Service Locator",
+  "description": "A lightweight service locator for Unity.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Team AcMong"
+  }
+}
